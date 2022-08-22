@@ -1,0 +1,79 @@
+*{
+    
+    box-sizing: border-box;
+    margin: 0;
+    background-color: rgb(34, 29, 29);
+}
+
+
+.topo{
+    position: absolute;
+    display: flex;
+    width: 2000px;
+    height: 190px;
+    align-items: center;
+    justify-content: center;
+   background-color: black;
+    color: white;
+    border: solid yellowgreen 10px ;
+}
+
+.bike{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 600px;
+    top: 200px;
+}
+
+
+.history{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 250px;
+    left: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border: solid 10px yellowgreen;
+}
+
+.brazil{
+    border: solid yellowgreen 10px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width:500px ;
+    height: 500px;
+    top:250px ;
+    left: 1260px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.pp{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    border: solid  10px yellowgreen;
+    top: 860px;
+    left: 400px;
+    width: 1000px;
+    height: 1250px;
+    align-items: center;
+    color: white;
+    background-color: black;
+    
+
+}
+
+
+.a{
+    background-color: black;
+}
